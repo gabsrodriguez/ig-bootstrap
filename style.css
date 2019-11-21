@@ -1,7 +1,7 @@
 .bgGreyGaby{
     background-color: lightgrey!important;
 }
-.margintop{
+.nav{
     margin-top: 80px;
 }
 .images img{
@@ -19,6 +19,15 @@
 .mainFeed .card-body {
     padding: 0px;
 }
-.nav{
-    align-items: center;
+.navsquare{
+    color: gray;
+}
+.date{
+    float: right;
+}
+.ellipses{
+    float: right;
+}
+.fas fa-ellipsis-v{
+    float: right;
 }
